@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocolo>
+  <codigo>PROT-DRENAJE-BAJA</codigo>
+  <tipoIncidencia>DRENAJE</tipoIncidencia>
+  <prioridad>BAJA</prioridad>
+  <especialidad>GENERAL</especialidad>
+  <plazoMaximoMinutos>2880</plazoMaximoMinutos>
+  <requiereCorteCarril>false</requiereCorteCarril>
+  <instrucciones>Limpiar el imbornal y retirar sedimentos y residuos. Comprobar el desagüe y registrar el estado final del drenaje.</instrucciones>
+</protocolo>

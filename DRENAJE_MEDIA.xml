@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocolo>
+  <codigo>PROT-DRENAJE-MEDIA</codigo>
+  <tipoIncidencia>DRENAJE</tipoIncidencia>
+  <prioridad>MEDIA</prioridad>
+  <especialidad>GENERAL</especialidad>
+  <plazoMaximoMinutos>480</plazoMaximoMinutos>
+  <requiereCorteCarril>false</requiereCorteCarril>
+  <instrucciones>Señalizar la zona afectada y revisar rejillas y conducciones. Retirar obstrucciones, comprobar la evacuación de agua y registrar cualquier deficiencia estructural.</instrucciones>
+</protocolo>

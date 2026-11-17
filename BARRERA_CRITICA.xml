@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocolo>
+  <codigo>PROT-BARRERA-CRITICA</codigo>
+  <tipoIncidencia>BARRERA</tipoIncidencia>
+  <prioridad>CRITICA</prioridad>
+  <especialidad>SEGURIDAD_VIAL</especialidad>
+  <plazoMaximoMinutos>60</plazoMaximoMinutos>
+  <requiereCorteCarril>true</requiereCorteCarril>
+  <instrucciones>Señalizar y balizar la zona. Evaluar la estabilidad de la barrera. Sustituir los elementos dañados y verificar el anclaje antes de restablecer la circulación.</instrucciones>
+</protocolo>

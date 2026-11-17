@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocolo>
+  <codigo>PROT-SENAL-MEDIA</codigo>
+  <tipoIncidencia>SENAL</tipoIncidencia>
+  <prioridad>MEDIA</prioridad>
+  <especialidad>SEGURIDAD_VIAL</especialidad>
+  <plazoMaximoMinutos>480</plazoMaximoMinutos>
+  <requiereCorteCarril>false</requiereCorteCarril>
+  <instrucciones>Inspeccionar los anclajes y el estado del soporte. Asegurar o sustituir la señal y verificar su visibilidad desde el sentido de circulación afectado.</instrucciones>
+</protocolo>

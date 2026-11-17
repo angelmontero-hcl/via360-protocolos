@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocolo>
+  <codigo>PROT-FIRME-ALTA</codigo>
+  <tipoIncidencia>FIRME</tipoIncidencia>
+  <prioridad>ALTA</prioridad>
+  <especialidad>FIRME</especialidad>
+  <plazoMaximoMinutos>240</plazoMaximoMinutos>
+  <requiereCorteCarril>true</requiereCorteCarril>
+  <instrucciones>Señalizar la zona de trabajo y proteger el carril afectado. Retirar el material deteriorado, reparar el firme y comprobar la seguridad de la circulación antes de reabrir.</instrucciones>
+</protocolo>

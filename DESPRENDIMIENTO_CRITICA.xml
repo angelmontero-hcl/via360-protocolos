@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocolo>
+  <codigo>PROT-DESPRENDIMIENTO-CRITICA</codigo>
+  <tipoIncidencia>DESPRENDIMIENTO</tipoIncidencia>
+  <prioridad>CRITICA</prioridad>
+  <especialidad>GENERAL</especialidad>
+  <plazoMaximoMinutos>30</plazoMaximoMinutos>
+  <requiereCorteCarril>true</requiereCorteCarril>
+  <instrucciones>Asegurar preventivamente el área y valorar la necesidad de restringir la circulación. Retirar el material desprendido, inspeccionar el talud y solicitar evaluación especializada si persiste el riesgo.</instrucciones>
+</protocolo>

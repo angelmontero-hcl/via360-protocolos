@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocolo>
+  <codigo>PROT-MARCAS-BAJA</codigo>
+  <tipoIncidencia>MARCAS</tipoIncidencia>
+  <prioridad>BAJA</prioridad>
+  <especialidad>FIRME</especialidad>
+  <plazoMaximoMinutos>4320</plazoMaximoMinutos>
+  <requiereCorteCarril>false</requiereCorteCarril>
+  <instrucciones>Preparar y limpiar la superficie. Repintar las marcas viales y comprobar su continuidad y visibilidad.</instrucciones>
+</protocolo>

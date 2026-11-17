@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocolo>
+  <codigo>PROT-OBSTACULO-CRITICA</codigo>
+  <tipoIncidencia>OBSTACULO</tipoIncidencia>
+  <prioridad>CRITICA</prioridad>
+  <especialidad>GENERAL</especialidad>
+  <plazoMaximoMinutos>30</plazoMaximoMinutos>
+  <requiereCorteCarril>true</requiereCorteCarril>
+  <instrucciones>Proteger de inmediato la zona y señalizar el peligro. Retirar la carga o los restos de forma segura, inspeccionar la calzada y confirmar que no quedan obstáculos.</instrucciones>
+</protocolo>

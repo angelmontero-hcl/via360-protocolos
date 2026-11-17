@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocolo>
+  <codigo>PROT-SENAL-BAJA</codigo>
+  <tipoIncidencia>SENAL</tipoIncidencia>
+  <prioridad>BAJA</prioridad>
+  <especialidad>SEGURIDAD_VIAL</especialidad>
+  <plazoMaximoMinutos>2880</plazoMaximoMinutos>
+  <requiereCorteCarril>false</requiereCorteCarril>
+  <instrucciones>Comprobar la estabilidad del panel y sus fijaciones. Ajustar o sustituir los elementos deteriorados y documentar el resultado.</instrucciones>
+</protocolo>

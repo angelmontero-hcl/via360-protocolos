@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocolo>
+  <codigo>PROT-BARRERA-ALTA</codigo>
+  <tipoIncidencia>BARRERA</tipoIncidencia>
+  <prioridad>ALTA</prioridad>
+  <especialidad>SEGURIDAD_VIAL</especialidad>
+  <plazoMaximoMinutos>180</plazoMaximoMinutos>
+  <requiereCorteCarril>true</requiereCorteCarril>
+  <instrucciones>Balizar la zona y evaluar el alcance del impacto. Sustituir tramos y postes dañados, verificar las uniones y dejar la barrera en condiciones de servicio.</instrucciones>
+</protocolo>

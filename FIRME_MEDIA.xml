@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocolo>
+  <codigo>PROT-FIRME-MEDIA</codigo>
+  <tipoIncidencia>FIRME</tipoIncidencia>
+  <prioridad>MEDIA</prioridad>
+  <especialidad>FIRME</especialidad>
+  <plazoMaximoMinutos>720</plazoMaximoMinutos>
+  <requiereCorteCarril>false</requiereCorteCarril>
+  <instrucciones>Delimitar el área deteriorada. Medir la deformación, ejecutar una reparación localizada y verificar la regularidad superficial del firme.</instrucciones>
+</protocolo>

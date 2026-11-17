@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<protocolo>
+  <codigo>PROT-ILUMINACION-MEDIA</codigo>
+  <tipoIncidencia>ILUMINACION</tipoIncidencia>
+  <prioridad>MEDIA</prioridad>
+  <especialidad>ELECTRICIDAD</especialidad>
+  <plazoMaximoMinutos>480</plazoMaximoMinutos>
+  <requiereCorteCarril>false</requiereCorteCarril>
+  <instrucciones>Aislar eléctricamente el circuito antes de intervenir. Comprobar protecciones, cableado y luminarias. Restaurar el suministro y verificar el encendido.</instrucciones>
+</protocolo>
